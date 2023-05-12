@@ -1,1 +1,1 @@
-# software-configration
+# software config
